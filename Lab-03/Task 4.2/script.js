@@ -1,0 +1,1 @@
+console.log(typeof NaN);    // Give output as number
